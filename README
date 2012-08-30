@@ -1,0 +1,7 @@
+DisplayLock
+
+This is a simple utility application that allows you to turn off your display
+(if your monitor supports power-saving options) and lock your computer at the
+same time in a single action (running this program.)
+
+No window will appear when this program is run and it will quietly exit.
